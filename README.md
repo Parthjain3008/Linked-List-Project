@@ -1,4 +1,4 @@
-# Linked-List-x86-64-ASM &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/mateuszstompor/Linked-List-x86-64-ASM.svg?branch=master)]
+# Linked-List&middot; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/mateuszstompor/Linked-List-x86-64-ASM.svg?branch=master)]
 
 > linked list is a linear collection of data elements whose order is not given by their physical placement in memory. 
 > Instead, each element points to the next. 
